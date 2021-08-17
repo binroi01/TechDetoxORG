@@ -1,0 +1,142 @@
+
+    body {
+        height: 100%;
+        background-image: url(https://wallpaper.dog/large/17197785.jpg);
+        margin: 0;
+    }
+
+
+    p {
+        color: lightgreen;
+        font-size: 20px;
+        font-weight: 500;
+        text-shadow: 2px 2px 0px #050505;
+    
+        background-color: rgba(39, 173, 120, 0.5);
+        text-align: center;
+        display:inline-block;
+        
+    }
+    .p-border{border: solid lightgreen}
+
+    table {
+        table-layout: fixed;
+    }
+
+    td {
+        width: 50%;
+    }
+
+    .h2 {
+        color: mediumslateblue;
+        font-size: 35px;
+        font-weight: bold;
+        text-shadow: 2px 2px 0 rgb(2, 2, 2);
+        text-decoration: underline;
+    }
+
+    h3 {
+        text-align: center;
+        text-shadow: 2px 2px 0 rgb(2, 2, 2);
+        text-decoration: underline;
+    }
+
+
+
+    li {
+        color: rgb(158, 247, 158);
+        font-size: 30px;
+        font-weight: bold;
+        text-shadow: 2px 2px 0 rgb(2, 2, 2)
+    }
+
+    ul {
+        list-style-type: none;
+        ;
+    }
+
+    .div-inline {
+        display: inline-block;
+        width: 33%;
+        text-align: center;
+        vertical-align: top;
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .chatbox {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        background-color: grey;
+        width: 205px;
+        border: solid;
+        border-color: lightcoral;
+        border-width: 10;
+    }
+
+    .textarea {
+        width: 200px;
+    }
+
+    .p-margin{margin-left: 10px; margin-right: 10px}
+
+    .container {
+        position: absolute;
+        left: 29%;
+
+    }
+
+
+
+    .audiofont {
+        font-family: "Audiowide", sans-serif;
+        color: whitesmoke;
+        text-align: center;
+        font-size: 75px;
+    }
+
+    .gracefont {
+        font-family: 'Covered By Your Grace';
+        font-size: 30px;
+        text-align: center;
+        color: whitesmoke
+    }
+
+    .sofiafont {
+        font-family: Sofia;
+    }
+
+    .croissantfont {
+        font-family: Croissant One;
+        color: rgb(0, 132, 255);
+        font-weight: bold;
+    }
+
+    .rammettofont {
+        font-family: rammetto one, sans-serif;
+        font-size: 50px;
+        color: lightskyblue;
+        text-align: center;
+        text-shadow: 2px 2px 0 rgb(2, 2, 2)
+    }
+
+    .skybackground {
+        background-image: url(https://scriptmag.com/.image/t_share/MTY3Mzc4OTU1NzQ2MTU4Mzgx/image-placeholder-title.jpg);
+        border: solid 4px;
+        border-color: lavenderblush;
+    }
+
+    .thickness {
+        border-width: 5px;
+        font-size: 20px;
+        font-weight: bolder;
+    }
